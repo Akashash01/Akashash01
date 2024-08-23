@@ -1,4 +1,4 @@
-# ! [image alt]() 
+# ! [image alt](https://github.com/Akashash01/Akashash01/blob/e3a4e11250fdfef1befe4e1990667f857663bb74/images%20(5).jpeg) 
 # 💫 About Me:
 𝐇𝐢 𝐚𝐥𝐥✌, 𝐈'𝐦 𝐀𝐤𝐚𝐬𝐡. 𝐄𝐦𝐞𝐫𝐠𝐢𝐧𝐠 𝐃𝐚𝐭𝐚 𝐀𝐧𝐚𝐥𝐲𝐬𝐭 𝐟𝐫𝐨𝐦 𝐈𝐧𝐝𝐢𝐚. <br>"Aspiring Data Analyst with a strong foundation 𝐢𝐧<br> data analysis, visualization, and statistical modeling. <br>Skilled in turning complex data into actionable insights <br>to drive business decisions. Passionate about leveraging <br>data to solve real-world problems and continuously learning <br>emerging trends in analytics. Ready to contribute to data-driven success."
 
